@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor / OS files
+.vscode/
+.DS_Store
+
+# Downloaded model file (large binary, download with scripts/download_model.py)
+models/*.task
+
+# Local workout database (personal data)
+data/*.db
+data/*.sqlite3

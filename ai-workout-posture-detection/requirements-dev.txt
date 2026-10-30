@@ -1,0 +1,2 @@
+# Optional: pytest. The tests also run with the built-in unittest (no install needed).
+pytest>=7.0

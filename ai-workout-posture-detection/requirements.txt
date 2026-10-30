@@ -1,0 +1,6 @@
+# Core dependencies (needed to run the app).
+# Lower bounds only, so pip can pick versions that work together on your Python.
+# Recommended Python: 3.10 - 3.12 (64-bit). See README "Environment setup".
+opencv-python>=4.8
+mediapipe>=0.10.14
+numpy>=1.24
